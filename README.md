@@ -2,7 +2,7 @@
 
 🎓 I am Jhonathan Salas, a **Informatics Technician** specializing in **Back End Web Development**.
 
-👨‍💻 I am a enthusiastic in **Open Source Projects** and learning new technology. I also got started with [**freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**blogging**](https://dev.to/ruppysuppy) recently.
+👨‍💻 I am a enthusiastic in **Open Source Projects** and learning new technology. 
 
 📚 I love reading books on **history** & **Sci-fi**. My favourites ones are **Joseph Fouché**
 by _Stefan Zweig_ and **Foundation** by _Isaac Asimov_.
@@ -13,8 +13,6 @@ by _Stefan Zweig_ and **Foundation** by _Isaac Asimov_.
 
 ![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java)
-![typescript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript)
 ![golang](https://img.shields.io/badge/Golang-323330?style=for-the-badge&logo=go)
 
 ### Front-End Development
@@ -57,7 +55,3 @@ by _Stefan Zweig_ and **Foundation** by _Isaac Asimov_.
 [![portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://jhonssegura.com/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jhonssegura/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0077B5?style=for-the-badge&logo=Dev-dot-To&logoColor=white)](https://dev.to/jhonssegura)
-[![github](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jhonssegura)
-
-
-
