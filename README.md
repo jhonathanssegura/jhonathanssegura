@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-🎓 I am Jhonathan Salas, a **Informatics Technician** specializing in **Back End Web Development**.
+🎓 I am Jhonathan Salas, a **Informatics Technician** specializing in **Back End Development**.
 
 👨‍💻 I am a enthusiastic in **Open Source Projects** and learning new technology. 
 
@@ -31,6 +31,7 @@ by _Stefan Zweig_ and **Foundation** by _Isaac Asimov_.
 
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white)
+![sql-server](https://img.shields.io/badge/Microsoft%20Sever-CC2927?style=for-the-badge&logo=microfost%20sql%20server&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
@@ -38,11 +39,11 @@ by _Stefan Zweig_ and **Foundation** by _Isaac Asimov_.
 
 ## 🖥️ Workspace Setup
 
-![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![ryzen-4000](https://img.shields.io/badge/AMD-Ryzen_7_4700U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![radeon](https://img.shields.io/badge/AMD-Radeon-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
 
 ## 📈 Stats
 
