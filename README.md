@@ -15,25 +15,26 @@ by _Stefan Zweig_ and **Foundation** by _Isaac Asimov_.
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![golang](https://img.shields.io/badge/Golang-323330?style=for-the-badge&logo=go)
 
-### Front-End Development
+## Front-End Development
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Back-End Development
+## Back-End Development
 
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
-### Database
+## Database
 
+![sql-server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white)
-![sql-server](https://img.shields.io/badge/Microsoft%20Sever-CC2927?style=for-the-badge&logo=microfost%20sql%20server&logoColor=white)
 
-### Backend as a Service (BaaS)
+
+## Backend as a Service (BaaS)
 
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
