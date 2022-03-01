@@ -45,13 +45,6 @@ by _Stefan Zweig_ and **Foundation** by _Isaac Asimov_.
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-
-## 📈 Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=jhonssegura&show_icons=true&hide_border=true)
-
-![used](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonssegura&theme=blue-green)
-
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://jhonssegura.com/)
