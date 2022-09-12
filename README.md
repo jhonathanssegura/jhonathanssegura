@@ -1,13 +1,10 @@
-## 🚀 About Me
+## 🚀 My Projects
 
-🎓 I am Jhonathan Salas, a **Informatics Technician** specializing in **Back End Development**.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonssegura&repo=django-sistema-receptor)](https://github.com/jhonssegura/django-sistema-receptor)
 
-👨‍💻 I am a enthusiastic in **Open Source Projects** and learning new technology. 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonssegura&repo=golang-api-blockchain)](https://github.com/jhonssegura/golang-api-blockchain)
 
-📚 I love reading books on **history** & **Sci-fi**. My favourites ones are **Joseph Fouché**
-by _Stefan Zweig_ and **Foundation** by _Isaac Asimov_.
-
-✈️ I love **travelling** as well, even though its been some time since I last travelled. My last trip was a trip to stay for several months in **Argentina** in _2019_. But I have also known others **South American** countries. Nothing like having several many stamps in your passport. 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonssegura&repo=airflow-data-pipeline)](https://github.com/jhonssegura/airflow-data-pipeline)
 
 ## Languages
 
@@ -25,28 +22,38 @@ by _Stefan Zweig_ and **Foundation** by _Isaac Asimov_.
 
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.JS-black?style=for-the-badge&logo=express&logoColor=white)
 
 ## Database
 
+### SQL
+
 ![sql-server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### NoSQL
 
-## Backend as a Service (BaaS)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![redis](https://img.shields.io/badge/Redis-CC2927?style=for-the-badge&logo=redis&logoColor=white)
 
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+## Dev Tools
 
-## 🖥️ Workspace Setup
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Virtualbox](https://img.shields.io/badge/Virtualbox-black?style=for-the-badge&logo=virtualbox&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![ryzen-4000](https://img.shields.io/badge/AMD-Ryzen_7_4700U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![radeon](https://img.shields.io/badge/AMD-Radeon-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+## 📈 My statistics
+
+![Jhonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonssegura&show_icons=true&theme=city_lights)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonssegura&layout=compact&show_icons=true&theme=city_lights)](https://github.com/jhonssegura/github-readme-stats)
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://jhonssegura.com/)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jhonssegura/)
-[![dev.to](https://img.shields.io/badge/Dev.to-0077B5?style=for-the-badge&logo=Dev-dot-To&logoColor=white)](https://dev.to/jhonssegura)
+[![Linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/segurajhona)
+[![dev.to](https://img.shields.io/badge/Dev.to-0077B5?style=for-the-badge&logo=Dev.To&logoColor=white)](https://dev.to/segurajhona)
+[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/segurajhona)
