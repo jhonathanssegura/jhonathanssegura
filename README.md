@@ -1,11 +1,3 @@
-## 🚀 My Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonssegura&repo=django-sistema-receptor)](https://github.com/jhonssegura/django-sistema-receptor)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonssegura&repo=golang-api-blockchain)](https://github.com/jhonssegura/golang-api-blockchain)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonssegura&repo=airflow-data-pipeline)](https://github.com/jhonssegura/airflow-data-pipeline)
-
 ## Languages
 
 ![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python)
