@@ -40,9 +40,9 @@
 
 ## 📈 My statistics
 
-![Jhonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonssegura&show_icons=true&theme=city_lights)
+![Jhonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=segurajhona&show_icons=true&theme=city_lights)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonssegura&layout=compact&show_icons=true&theme=city_lights)](https://github.com/jhonssegura/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segurajhona&layout=compact&show_icons=true&theme=city_lights)](https://github.com/segurajhona/github-readme-stats)
 
 ## 🔗 Links
 
