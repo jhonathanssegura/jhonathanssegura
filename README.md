@@ -3,7 +3,7 @@
 ![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![golang](https://img.shields.io/badge/Golang-323330?style=for-the-badge&logo=go)
-![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=go)
+![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java)
 
 ## Back-End Development
 
