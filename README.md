@@ -3,7 +3,7 @@
 ![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![golang](https://img.shields.io/badge/Golang-323330?style=for-the-badge&logo=go)
-![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java)
+![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk)
 
 ## Back-End Development
 
@@ -35,12 +35,12 @@
 
 ## 📈 My statistics
 
-![Jhonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=segurajhona&show_icons=true&theme=city_lights)
+![Jhonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonasegura&show_icons=true&theme=city_lights)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segurajhona&layout=compact&show_icons=true&theme=city_lights)](https://github.com/segurajhona/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonasegura&layout=compact&show_icons=true&theme=city_lights)](https://github.com/jhonasegura/github-readme-stats)
 
 ## 🔗 Links
 
-[![Linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/segurajhona)
-[![dev.to](https://img.shields.io/badge/Dev.to-0077B5?style=for-the-badge&logo=Dev.To&logoColor=white)](https://dev.to/segurajhona)
-[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/segurajhona)
+[![Linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jhonasegura)
+[![dev.to](https://img.shields.io/badge/Dev.to-0077B5?style=for-the-badge&logo=Dev.To&logoColor=white)](https://dev.to/jhonasegura)
+[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jhonasegura)
