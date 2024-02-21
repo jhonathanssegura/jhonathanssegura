@@ -1,16 +1,13 @@
 ## Languages
 
 ![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![golang](https://img.shields.io/badge/Golang-323330?style=for-the-badge&logo=go)
 ![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk)
 
 ## Back-End Development
 
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.JS-black?style=for-the-badge&logo=express&logoColor=white)
+![gin](https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=gin&logoColor=white)
+![django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Database
@@ -27,11 +24,11 @@
 
 ## Dev Tools
 
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white) 
+![ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Virtualbox](https://img.shields.io/badge/Virtualbox-black?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Virtualbox](https://img.shields.io/badge/Virtualbox-black?style=for-the-badge&logo=virtualbox&logoColor=white)
-![ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white) 
 
 ## 📈 My statistics
 
