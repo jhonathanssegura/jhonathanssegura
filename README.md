@@ -1,14 +1,14 @@
 ## Languages
 
 ![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python)
-![golang](https://img.shields.io/badge/Golang-323330?style=for-the-badge&logo=go)
 ![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk)
+![golang](https://img.shields.io/badge/Golang-323330?style=for-the-badge&logo=go)
 
 ## Back-End Development
 
-![gin](https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=gin&logoColor=white)
 ![django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white)
+![gin](https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=gin&logoColor=white)
 
 ## Database
 
