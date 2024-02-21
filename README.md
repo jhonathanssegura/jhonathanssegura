@@ -10,7 +10,7 @@
 ![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)
 ![gin](https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=gin)
 
-## Database
+## Databases
 ![postgresql](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![mysql](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 ![mongodb](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
