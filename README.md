@@ -1,34 +1,34 @@
 ## Languages
 
-![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python)
-![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk)
-![golang](https://img.shields.io/badge/Golang-323330?style=for-the-badge&logo=go)
+![python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go)
 
 ## Back-End Development
 
-![django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white)
-![gin](https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=gin&logoColor=white)
+![django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
+![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)
+![gin](https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=gin)
 
 ## Database
 
 ### SQL
 
-![mysql](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![mysql](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
 ### NoSQL
 
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![redis](https://img.shields.io/badge/Redis-CC2927?style=for-the-badge&logo=redis&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
 
 ## Dev Tools
 
-![ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Virtualbox](https://img.shields.io/badge/Virtualbox-black?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white) 
+![ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
+![Virtualbox](https://img.shields.io/badge/Virtualbox-black?style=for-the-badge&logo=virtualbox)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman) 
 
 ## 📈 My statistics
 
@@ -38,6 +38,6 @@
 
 ## 🔗 Links
 
-[![Linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jhonasegura)
-[![dev.to](https://img.shields.io/badge/Dev.to-0077B5?style=for-the-badge&logo=Dev.To&logoColor=white)](https://dev.to/jhonasegura)
-[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jhonasegura)
+[![Linked-in](https://img.shields.io/badge/Linked_In-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/jhonasegura)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/jhonasegura)
+[![dev.to](https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=Dev.To)](https://dev.to/jhonasegura)
