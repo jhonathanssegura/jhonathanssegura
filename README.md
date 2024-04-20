@@ -1,3 +1,7 @@
+# Hello there! Welcome to my profile.
+
+I’m a technical professional with 6 years of experience as a backend software engineer, I’m excited to learn about the latest technologies to reinvent, build, optimize, integrate and automate solutions. My experience has focused mainly on sectors related to retail, ecommerce and banking. The developments have been mainly monoliths or microservices with REST APIs.
+
 ## Programming Languages
 
 ![python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
@@ -33,5 +37,5 @@
 ## 🔗 Links
 
 [![Linked-in](https://img.shields.io/badge/Linked_In-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/jhonasegura)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/jhonasegura)
+[![HackerRank](https://img.shields.io/badge/Hacker_Rank-black?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/profile/jhonasegura)
 [![dev.to](https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=Dev.To)](https://dev.to/jhonasegura)
