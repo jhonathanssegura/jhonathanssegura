@@ -1,6 +1,6 @@
 # Hello there! Welcome to my profile.
 
-I’m a technical professional with 6 years of experience as a backend software engineer, I’m excited to learn about the latest technologies to reinvent, build, optimize, integrate and automate solutions. My experience has focused mainly on sectors related to retail, ecommerce and banking. The developments have been mainly monoliths or microservices with REST APIs.
+I'm a technical professional with more than six years of experience developing applications using Python, Java and Golang. Throughout my career, I have worked in a wide variety of projects that have ranged from web application development to complex backend solutions and scalable. My experience has focused mainly on sectors related to retail, ecommerce and banking. The developments have mainly been monoliths or microservices with REST API.
 
 ## Programming Languages
 
