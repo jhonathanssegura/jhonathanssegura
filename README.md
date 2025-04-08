@@ -30,12 +30,12 @@ I'm a technical professional with more than six years of experience developing a
 
 ## 📈 My statistics
 
-![Jhonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathanrooms&show_icons=true&theme=city_lights)
+![Jhonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathanssegura&show_icons=true&theme=city_lights)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathanrooms&layout=compact&show_icons=true&theme=city_lights)](https://github.com/jhonathanrooms/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathanssegura&layout=compact&show_icons=true&theme=city_lights)](https://github.com/jhonathanssegura/github-readme-stats)
 
 ## 🔗 Links
 
-[![Linked-in](https://img.shields.io/badge/Linked_In-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/jhonathanrooms)
-[![HackerRank](https://img.shields.io/badge/Hacker_Rank-black?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/profile/jhonathanrooms)
-[![dev.to](https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=Dev.To)](https://dev.to/jhonathanrooms)
+[![Linked-in](https://img.shields.io/badge/Linked_In-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/jhonathanssegura)
+[![HackerRank](https://img.shields.io/badge/Hacker_Rank-black?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/profile/jhonathanssegura)
+[![dev.to](https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=Dev.To)](https://dev.to/jhonathanssegura)
