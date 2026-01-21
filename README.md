@@ -5,14 +5,7 @@ I'm a technical professional with more than six years of experience developing a
 ## Programming Languages
 
 ![python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
 ![golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go)
-
-## Frameworks
-
-![django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
-![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)
-![gin](https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=gin)
 
 ## Databases
 ![postgresql](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
